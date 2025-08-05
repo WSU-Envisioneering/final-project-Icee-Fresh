@@ -49,3 +49,24 @@ figure:nth-child(3){
 img{
     width: 100%;
 }
+
+
+footer {
+    background-color: dodgerblue;
+    color: antiquewhite;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 3rem;
+  }
+  
+  .footerNav {
+    list-style: none;
+    padding: 0;
+    margin-top: 0.5rem;
+  }
+  
+  .footerNav li a {
+    color: antiquewhite;
+    text-decoration: underline;
+  }
+  
